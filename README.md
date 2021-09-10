@@ -1,0 +1,2 @@
+# mygitfolder
+academic testing git
